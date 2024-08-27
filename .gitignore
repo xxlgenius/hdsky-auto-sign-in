@@ -9,8 +9,7 @@ __pycache__/
 # Distribution / packaging
 config.json
 .Python
-split/
-app/
+./split/
 build/
 develop-eggs/
 dist/
